@@ -29,3 +29,5 @@ If you prefer using the built-in terminal:
 
 - No build or install step is required.
 - This is a static HTML/CSS project.
+
+## Developed By Sreyas PS
