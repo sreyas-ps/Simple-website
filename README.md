@@ -2,6 +2,10 @@
 
 A simple static website showcasing a home decor design using HTML and CSS.
 
+## UI 
+
+<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/36ab13ab-57ff-4746-85ca-9fcdfc7a9c22" />
+
 ## Project structure
 
 - `index.html` - main page markup
