@@ -1,4 +1,4 @@
-# Home Decor Website
+# Home simple Website
 
 A simple static website showcasing a home decor design using HTML and CSS.
 
